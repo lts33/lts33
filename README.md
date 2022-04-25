@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tianshan Lin
-- 👀 I’m interested programming and data science
-- 🌱 I’m currently learning Elisp and TypeScript
+- 👀 I’m currently learning Elisp and TypeScript
 
 
 <!---
