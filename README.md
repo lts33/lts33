@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tianshan Lin
+- 👋 Hi, I’m Tianshan, Data Scientist at GSK.
 - 👀 I’m currently learning Elisp and TypeScript
 
 
