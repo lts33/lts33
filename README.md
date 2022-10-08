@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tianshan, Data Scientist at GSK UK, processing biological and chemical data for molecule design.
-- 👀 I’m currently learning Elisp and TypeScript
+- Currently learning Orgmode and TypeScript
 
 
 <!---
