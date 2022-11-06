@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tianshan, Data Scientist at GSK UK, processing biological and chemical data for molecule design.
-- Currently learning Orgmode and TypeScript
-
+- Currently learning TypeScript
+- Use Orgmode, seriously.
 
 <!---
 lts33/lts33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
