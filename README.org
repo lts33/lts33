@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tianshan, Data Scientist at GSK UK, processing biological and chemical data for molecule design.
-- Currently learning TypeScript
+- Currently learning TypeScript, it is hard
 - Use Orgmode, seriously.
 
